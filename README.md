@@ -3,7 +3,7 @@
 We build AI-powered poker bots since 2016. Our platform supports 20+ poker rooms and uses the **TriBrain Engine** — a proprietary three-component AI architecture combining hand history analysis, neural networks trained on 7B+ hands, and expert algorithms.
 
 **What we do:**
-- Automated poker bots for NLH, PLO, MTT, OFC, and more
+- Automated [poker bots](https://pokerbotai.com/) for NLH, PLO, MTT, OFC, and more
 - [Poker Ecology](https://pokerbotai.com/docs/bots-in-private-poker-clubs/) — AI ecosystem for poker club owners
 - [TurnKey PokerBotFarm](https://pokerbotai.com/docs/the-deal-profit-sharing-partnership/) — managed bot farm service
 - [PokerBotRadar](https://pokerbotai.com/docs/how-to-protect-your-club-from-bots/) — bot detection for clubs (99.7% accuracy)
